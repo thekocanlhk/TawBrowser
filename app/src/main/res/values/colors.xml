@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Aşağı Gölge -->
+    <color name="colorPrimary">#bababa</color>
+
+    <!-- Gezinme Çubuğu Rengi -->
+    <color name="colorPrimaryDark">#f2f2f2</color>
+    <color name="colorAccent">#9b9b9b</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Üst Adres Çubuğu Yüksekliği -->
+    <dimen name="top_bar_height">40dp</dimen>
+
+    <!-- Adres Çubuğu Arka Plan Boşluğu -->
+    <dimen name="top_bar_bg_gap">5dp</dimen>
+
+</resources>

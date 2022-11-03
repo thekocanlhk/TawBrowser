@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TawBrowser</string>
+
+    <string name="input_url">URL_arayın_veya_girin</string>
+
+    <!-- Ana sayfa Url -->
+    <string name="home_url">https://www.google.com/</string>
+
+    <!-- Alt gezinme -->
+    <string name="nav_right">İleri</string>
+    <string name="nav_left">Geri</string>
+    <string name="nav_set">Ayarlar</string>
+    <string name="nav_page">Pencere</string>
+    <string name="nav_home">Anasayfa</string>
+</resources>
